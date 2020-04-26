@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="Coffee_Machine-task_main" target="1.8" />
+      <module name="Coffee_Machine-task_test" target="1.8" />
+      <module name="Problems-A_capital_letter_or_a_digit_main" target="1.8" />
+      <module name="Problems-A_capital_letter_or_a_digit_test" target="1.8" />
+      <module name="Problems-Arithmetic_expression_main" target="1.8" />
+      <module name="Problems-Arithmetic_expression_test" target="1.8" />
+      <module name="Problems-Boxes_main" target="1.8" />
+      <module name="Problems-Boxes_test" target="1.8" />
+      <module name="Problems-Check_the_value_main" target="1.8" />
+      <module name="Problems-Check_the_value_test" target="1.8" />
+      <module name="Problems-Compare_Latin_letters_main" target="1.8" />
+      <module name="Problems-Compare_Latin_letters_test" target="1.8" />
+      <module name="Problems-Date_and_time_formatting_main" target="1.8" />
+      <module name="Problems-Date_and_time_formatting_test" target="1.8" />
+      <module name="Problems-Digits_or_not_main" target="1.8" />
+      <module name="Problems-Digits_or_not_test" target="1.8" />
+      <module name="Problems-Healthy_sleep_main" target="1.8" />
+      <module name="Problems-Healthy_sleep_test" target="1.8" />
+      <module name="Problems-Hello,_Kotlin_main" target="1.8" />
+      <module name="Problems-Hello,_Kotlin_test" target="1.8" />
+      <module name="Problems-Interval_main" target="1.8" />
+      <module name="Problems-Interval_test" target="1.8" />
+      <module name="Problems-N-th_symbol_main" target="1.8" />
+      <module name="Problems-N-th_symbol_test" target="1.8" />
+      <module name="Problems-Odd_or_even_main" target="1.8" />
+      <module name="Problems-Odd_or_even_test" target="1.8" />
+      <module name="Problems-Sequence_main" target="1.8" />
+      <module name="Problems-Sequence_test" target="1.8" />
+      <module name="Problems-The_information_about_a_person_main" target="1.8" />
+      <module name="Problems-The_information_about_a_person_test" target="1.8" />
+      <module name="Problems-The_last_digit_of_a_number_main" target="1.8" />
+      <module name="Problems-The_last_digit_of_a_number_test" target="1.8" />
+      <module name="Problems-Triangle_main" target="1.8" />
+      <module name="Problems-Triangle_test" target="1.8" />
+      <module name="util_main" target="1.8" />
+      <module name="util_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
